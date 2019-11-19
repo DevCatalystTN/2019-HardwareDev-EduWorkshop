@@ -41,7 +41,8 @@ A repo for Dev Catalyst's 2019 Educator Workshop over Hardware Development.
 - [GPIO Reference Boards](https://www.amazon.com/GPIO-Reference-Board-Raspberry-Model/dp/B07DPGMSC3/ref=sxbs_sxwds-stvp?keywords=GPIO+reference+board+bulk&pd_rd_i=B07DPGMSC3&pd_rd_r=96f16987-3cb8-4fac-80d5-89f71d8db120&pd_rd_w=T6bVH&pd_rd_wg=kOJt7&pf_rd_p=a6d018ad-f20b-46c9-8920-433972c7d9b7&pf_rd_r=YE6XVGRR5305F4RC8CCW&qid=1574117946&s=industrial)
 - [Some more fun stuff](https://www.amazon.com/SunFounder-Raspberry-Compatible-Electronics-Programming/dp/B07WV2HYC6/ref=sr_1_2_sspa?crid=3D9863RJJCTPI&keywords=raspberry+pi+starter+kit&qid=1574117985&s=industrial&sprefix=raspberry+pi+%2Cindustrial%2C148&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVUtCSzNTTkpONFNIJmVuY3J5cHRlZElkPUEwNTA3NDI4MlBTR0hDSkE1OFE5SSZlbmNyeXB0ZWRBZElkPUExMDIwNzg0MTlJV0owMVNBMUJVTSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 
-## [GPIOZERO activivities](https://gpiozero.readthedocs.io/en/stable/recipes.html)
+## [GPIOZERO Documentation](https://gpiozero.readthedocs.io/en/stable/recipes.html) - and activities!
+- [Reaction Game](https://gpiozero.readthedocs.io/en/stable/recipes.html#reaction-game)
 
 ## [Slideshow Link (Level 2)](https://docs.google.com/presentation/d/12qSspMbaEVe9HOze09a1blDTB_45HWLdj9n_Z_LVNrA/edit?usp=sharing)
 
